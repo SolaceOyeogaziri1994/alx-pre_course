@@ -1,7 +1,0 @@
-You can define a rule in your Git repository to never push files ending with a tilde (~) by adding a line to your repository's `.gitignore` file. Open the `.gitignore` file in a text editor and add the following line:
-
-```
-*~
-```
-
-This rule will exclude all files ending with a tilde from being tracked by Git and subsequently prevent them from being pushed to your repository.
